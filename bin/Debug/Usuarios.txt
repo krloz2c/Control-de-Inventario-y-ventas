@@ -1,0 +1,8 @@
+001
+Administrador
+Admin
+1234
+002
+Carlos Chung
+KarC
+1234

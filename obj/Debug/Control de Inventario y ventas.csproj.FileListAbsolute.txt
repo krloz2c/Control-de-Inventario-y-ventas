@@ -1,0 +1,12 @@
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\obj\Debug\Control de Inventario y ventas.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\obj\Debug\Control_de_Inventario_y_ventas.Epleado.resources
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\obj\Debug\Control_de_Inventario_y_ventas.Form1.resources
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\obj\Debug\Control_de_Inventario_y_ventas.Properties.Resources.resources
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\obj\Debug\Control de Inventario y ventas.csproj.GenerateResource.Cache
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\obj\Debug\Control de Inventario y ventas.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\bin\Debug\Control de Inventario y ventas.exe.config
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\bin\Debug\Control de Inventario y ventas.exe
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\bin\Debug\Control de Inventario y ventas.pdb
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\obj\Debug\Control de Inventario y ventas.exe
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\obj\Debug\Control de Inventario y ventas.pdb
+C:\Users\Carlos\source\repos\Control de Inventario y ventas\Control de Inventario y ventas\obj\Debug\Control_de_Inventario_y_ventas.Administrador.resources

@@ -1,0 +1,14 @@
+4
+papa
+6
+jamon
+2
+sal
+5
+carne
+4
+manzana
+6
+cebolla
+7
+zanahoria
