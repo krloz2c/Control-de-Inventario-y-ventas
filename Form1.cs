@@ -102,6 +102,7 @@ namespace Control_de_Inventario_y_ventas
                 user.Add(Ustemp);
 
             }
+            reader.Close();
         }
 
  

@@ -106,6 +106,7 @@ namespace Control_de_Inventario_y_ventas
                 intemp.Cantidid = reader.ReadLine();
                 intemp.Producto = reader.ReadLine();
                 comboBox1.Items.Add(intemp.Producto);
+                intemp.Precio = reader.ReadLine();
                 productos.Add(intemp);
 
             }
@@ -158,9 +159,18 @@ namespace Control_de_Inventario_y_ventas
 
         private void button2_Click(object sender, EventArgs e)
         {
+
+
+            Inventario nuevo = new Inventario();
+
+            nuevo.Cantidid = textBox2.Text;
+            nuevo.Producto = comboBox1.Text;
+
+
+
             dataGridView1.DataSource = null;
             dataGridView1.Refresh();
-            dataGridView1.DataSource = textBox2.Text + comboBox1.SelectedText;
+            dataGridView1.DataSource = productos;
             dataGridView1.Refresh();
         }
     }
